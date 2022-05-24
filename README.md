@@ -1,4 +1,4 @@
-# New Project
+# New Project - Todo App in React using TS (Web dev Simplified)
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
