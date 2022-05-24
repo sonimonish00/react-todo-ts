@@ -1,3 +1,15 @@
+- Check Updates/Upgrade first : https://docs.npmjs.com/updating-packages-downloaded-from-the-registry
+- npm init -y
+- npm i --save-dev typescript
+- TSConfig File (Similar to ESlint,Prettier,gitignore,JSDoc,etc.) : npx tsc --init
+  - Changing tsconfig.json - output dir
+  - Changing tsconfig.json - Module System commonJS => es6
+- Installing Bundlers (Webpack,Babel,grunt,gulp,parcel,snowpack etc.) : we will use snowpack bundler
+- Delete everything to start with snowpack command to automatically create (2nd Commit to github until this)
+- snowpack bundler 
+  - npx create-snowpack-app . --template @snowpack/app-template-blank-typescript
+
+
 # New Project - Todo App in React using TS (Web dev Simplified)
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
